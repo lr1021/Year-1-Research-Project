@@ -6,5 +6,5 @@ The report is written in Latex.
 
 Please have a read!
 
-<img src="ISOMETRIES_IN_EUCLIDEAN_SPACE__PATTERNS___SPACE_GROUPS.png" alt="Poster" width="1240" height="1754">
+<img src="poster.png" alt="Poster" width="1240" height="1754">
 
