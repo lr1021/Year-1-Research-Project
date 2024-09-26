@@ -5,3 +5,6 @@ This is an independent research project I worked on during my first year at Impe
 The report is written in Latex.
 
 Please have a read!
+
+<img src="ISOMETRIES_IN_EUCLIDEAN_SPACE__PATTERNS___SPACE_GROUPS.pdf" alt="Poster" width="1240" height="1754">
+
