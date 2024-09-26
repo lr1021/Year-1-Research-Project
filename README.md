@@ -7,5 +7,4 @@ The report is written in Latex.
 Please have a read!
 
 ![Poster Preview](./poster.png)
-<img src="poster.png" alt="Poster" width="1240" height="1754">
 
