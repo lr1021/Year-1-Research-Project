@@ -8,5 +8,3 @@ Please have a read!
 
 ![Poster Preview](./poster.png)
 
-![Poster Preview](./ISOMETRIES_IN_EUCLIDEAN_SPACE__PATTERNS___SPACE_GROUPS.pdf)
-
